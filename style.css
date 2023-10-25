@@ -15,6 +15,7 @@ html , body{
     background-color: rgb(136, 86, 86);
     overflow-y:scroll;
     scroll-snap-type:y mandatory;
+    overflow-x: hidden;
 }
 .section{
     width: 100vw;
